@@ -63,16 +63,3 @@ Ensure you have the following installed:
 1. **Access the app** by navigating to `http://127.0.0.1:5000` in your web browser.
 2. **Explore routes and features** as defined in the application.
 
-## Contributing
-
-Feel free to submit issues or pull requests. Contributions are welcome!
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
-## Author
-
-Ganesh Mahadev
-
-If you have any questions or suggestions, feel free to reach out.
